@@ -59,7 +59,7 @@ Hosted on GitHub Pages
 
 Live URL: https://a-kiet05.github.io/Personal-Web-Page-Assigments/
 
-Source code: https://github.com/yourusername/portfolio
+Source code: https://github.com/A-Kiet05/Personal-Web-Page-Assigments
 
 🧪 How to Run
 Clone the repository:
